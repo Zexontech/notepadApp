@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'notepad_app'; 
 $user = 'root';        
-$pass = '';            
+$pass = 'root';            
 
 try {
     // Create a PDO instance
